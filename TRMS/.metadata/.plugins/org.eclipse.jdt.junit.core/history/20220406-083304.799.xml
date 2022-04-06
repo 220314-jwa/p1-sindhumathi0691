@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EventTypeDAOImplTest" project="TRMS" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.sindhuTRMS.data.Impl.EventTypeDAOImplTest" time="0.431" displayname="EventTypeDAOImplTest" uniqueid="[engine:junit-jupiter]/[class:com.sindhuTRMS.data.Impl.EventTypeDAOImplTest]">
+    <testcase name="createstatus" classname="com.sindhuTRMS.data.Impl.EventTypeDAOImplTest" time="0.431" displayname="createstatus()" uniqueid="[engine:junit-jupiter]/[class:com.sindhuTRMS.data.Impl.EventTypeDAOImplTest]/[method:createstatus()]"/>
+  </testsuite>
+</testrun>

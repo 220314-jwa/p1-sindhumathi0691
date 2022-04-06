@@ -1,0 +1,34 @@
+package com.sindhuTRMS.data.Impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+public class StatusDAOImplTest {
+
+	StatusDAOImpl statusDAOImplObj = new StatusDAOImpl(); 
+	
+	@Test
+	public void createstatus() {
+		
+		//Setup  - Test data 
+		
+		int status_id = 1;
+		String status_name = "available";
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

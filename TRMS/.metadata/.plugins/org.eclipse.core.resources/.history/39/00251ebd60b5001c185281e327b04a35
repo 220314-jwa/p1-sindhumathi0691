@@ -1,0 +1,8 @@
+package com.sindhuTRMS.data.Impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+public class StatusDAOImplTest {
+
+	.
+}

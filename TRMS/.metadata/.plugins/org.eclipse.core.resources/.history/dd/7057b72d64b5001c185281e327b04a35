@@ -1,0 +1,27 @@
+package com.sindhuTRMS.data.Impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+public class StatusDAOImplTest {
+
+	
+	@Test
+	public void createstatus() {
+		
+		assertTrue(true);
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

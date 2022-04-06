@@ -1,0 +1,5 @@
+package com.sindhuTRMS.data.Impl;
+
+public class EventTypeDAOImplTest {
+
+}
