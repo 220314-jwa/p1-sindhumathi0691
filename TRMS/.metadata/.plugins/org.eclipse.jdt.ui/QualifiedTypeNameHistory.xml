@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.data.Impl.ManagerDAOImpl"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.data.Impl.DeptHeadDAOImpl"/>
+    <fullyQualifiedTypeName name="java.util.Currency"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.models.Reimb"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.models.Employee"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.models.Department"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ById"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.exceptions.IncorrectCredentialsException"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.data.Impl.EmployeeDAOImpl"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.models.Manager"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.data.ManagerDAO"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.models.DeptHead"/>
+    <fullyQualifiedTypeName name="com.sindhuTRMS.data.DeptHeadDAO"/>
+</qualifiedTypeNameHistroy>
