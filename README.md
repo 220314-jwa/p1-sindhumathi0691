@@ -1,34 +1,51 @@
-TRMS: Tuition Reimbursement Management System
+﻿# Java with Automation Foundations Project
+# Tuition Reimbursement App
 
-Project Description
+For this project, I created a full-stack application.
+The biggest priority for this application is testing using (JUnit, Mockito, Selenium).
 
-Tuition Reimbursement Management System is an application which allows employees at a company to submit requests for reimbursement. 
-If the employee decides to take a certification exam or attend a class, the company may reimburse them for the cost after they submit a request.
- Managers can then go into the application and approve or reject requests.
+## About the Application
 
-Technologies Used
-•	Java 
-•	Maven
-•	Postgres
-•	Html 
-•	CSS
-•	DBeaver
-•	Junit 
-•	Cucumber/Gherkin
-•	Javascript
-•	Selenium
-•	Mockito
+### TRMS: Tuition Reimbursement Management System
 
-Features
-•	Data must be stored and retrieved from a PostgreSQL database
-•	Data access in Java will be performed using JDBC DAOs.
-•	HTTP handling in Java will be done by using Javalin.
-•	DAOs are fully unit tested using Junit.
-•	Service layers must be fully unit tested using Junit and Mockito.
-•	Front end must be written using HTML, CSS, and Javascript (no libraries/frameworks for JS.Styling libararies like Bootstrap are fine.
-•	Atleast one feature must have an automation test written using Selenium
+Tuition Reimbursement Management System is an application which allows employees at a company to submit requests for reimbursement. If the employee decides to take a certification exam or attend a class, the company may reimburse them for the cost after they submit a request. Managers can then go into the application and approve or reject requests.
+## Technologies Used:
+
+1.  Java    
+2.  Maven    
+3.  Postgres   
+4.  DBeaver
+5.  Junit
+6.  Mockito
+7.  Selenium
+8.  Cucumber/Gherkin
+9.  HTML5 / CSS 3
+10. Javascript / AJAX
+
+## Technical Requirements
+
+1. Data must be stored and retrieved from a PostgreSQL database (local or AWS).
+2. Data access in Java will be performed using JDBC DAOs.
+3. HTTP handling in Java will be done using Javalin.
+4. Service layers must be fully unit tested using JUnit and Mockito.
+5. DAOs are fully unit tested using JUnit.
+6. Front end must be written using HTML, CSS, and JavaScript (no libraries/frameworks for JS. Styling libraries like Bootstrap are fine).
+7. At least one feature must have an automation test written using Selenium.
+
+## Features
+1. 1. End2End testing using Junit and Mockito
+2. Abilty to add user to tuition reimbursement
+3. Signin function
 
 
-Getting Started
+Todo List
+1. Fix bugs
+2. Correct E2E 
+4. Correct failed unit testing
+5. Add Cucumber Scenarios
 
-git clone “https://github.com/220314-jwa/p1-sindhumathi0691.git” 
+## Getting Started
+Clone address
+https://github.com/220314-jwa/p1-sindhumathi0691.git
+
+
