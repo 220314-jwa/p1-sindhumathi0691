@@ -33,7 +33,7 @@ Tuition Reimbursement Management System is an application which allows employees
 7. At least one feature must have an automation test written using Selenium.
 
 ## Features
-1. 1. End2End testing using Junit and Mockito
+1. End2End testing using Junit and Mockito
 2. Abilty to add user to tuition reimbursement
 3. Signin function
 
