@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>This is TRMS</title>
+	</head>
+	
+	<body>
+	
+	    <h1>Submit Reimbursement</h1>
+	    
+	    <form method="post" action="http://localhost:9090/submitReimb">
+	    
+	    	<label for="first_name">first_name:</label>
+		    <input name = "first_name" type="text" id = "first_name">
+		    <br>
+		    <label for="last_name">last_name:</label>		    
+		    <input name = "last_name" type="text" id = "last_name">
+		     <br>
+		    <label for="event_type_name">event_type_name:</label>
+		    <input name = "event_type_name" type="text" id = "event_type_name">
+		     <br>
+		     <label for="event_date">event_date:</label>
+		    <input name = "event_date" type="date" id = "event_date">
+		    <br>
+		     <label for="cost">cost:</label>
+		    <input name = "cost" type="number" min="0:00" max="0:00" step="0:01" id = "cost">
+		    <br>
+		    <label for="description" >description:</label>
+		    <input name = "description" type="text" id = "description">
+		     <br>
+		    <label for="location" >location:</label>
+		    <input name = "location" type="text" id = "location">
+		    <br>
+		    <label for="submitted_at" >submitted_at:</label>
+		    <input name = "submitted_at" type="text" id = "submitted_at">
+		    <br>
+		    <button>Submit Reimbursement</button>
+	    
+	    </form>
+	    
+	</body>
+
+</html>
